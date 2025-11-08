@@ -58,7 +58,7 @@ Accenture Use Case: AC-02 Predictive Maintenance Copilot
 | Group | Name  | Asah ID | Roles | University |
 |---|---|---|---|---|
 | Machine Learning | Naufal Rahfi Anugerah | M254D5Y1475 | Project Manager, Machine Learning Engineer | Universitas Mercu Buana |
-| Machine Learning | Naufal Rahfi Anugerah | M254D5Y0400 | Machine Learning Engineer | Universitas Mercu Buana |
+| Machine Learning | Clavino Ourizqi Rachmadi | M254D5Y0400 | Machine Learning Engineer | Universitas Mercu Buana |
 | React & Back-End AI | Leonardo Ade Hendrawan | R172D5Y0991 | Fullstack Engineer | Universitas Mikroskil |
 | React & Back-End AI | Vania | R172D5X1931 | Fullstack Engineer | Universitas Mikroskil |
 | React & Back-End AI | Agung Gihon Simanjuntak | R116D5Y0075 | Fullstack Engineer | Institut Teknologi Kalimantan |
