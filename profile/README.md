@@ -36,8 +36,12 @@ Accenture Use Case: AC-02 Predictive Maintenance Copilot
 </p>
 
 ### Key Features
-
-### Tech Stacks
+- **Anomaly Prediction for Engines**: Detects unusual patterns in sensor data to anticipate mechanical issues before failure occurs.
+- **Optimized Maintenance Scheduler**: Automatically plans and prioritizes maintenance tasks to minimize downtime and extend equipment life.
+- **Automated Ticketing System**: Generates maintenance tickets and assigns engineers based on anomaly severity and availability.
+- **Copilot Integration**: Embedded AI assistant that helps engineers interpret model insights, generate reports, and recommend corrective actions.
+- **Maintenance Forecasting**: Predicts the optimal time window for upcoming maintenance using time-series forecasting models.
+- **Continuous Model Retraining**: Automatically retrains and updates prediction models as new operational data is collected, ensuring consistent accuracy.
 
 ### Repository
 
