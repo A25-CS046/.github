@@ -44,7 +44,6 @@ Accenture Use Case: AC-02 Predictive Maintenance Copilot
 - **Continuous Model Retraining**: Automatically retrains and updates prediction models as new operational data is collected, ensuring consistent accuracy.
 
 ### Repository
-
 <div align="center">
   
 | Repository | Description | Links |
@@ -56,7 +55,6 @@ Accenture Use Case: AC-02 Predictive Maintenance Copilot
 </div>
 
 ### Contributor
-
 <div align=center>
 
 | Group | Name  | Asah ID | Roles | University |
